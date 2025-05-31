@@ -24,6 +24,8 @@ A critical initial step involved **handling null values** within the datasets. W
 
 A fundamental understanding of the business's **sales pipeline** was crucial, which progresses through the following stages: **Prospecting ➡️ Engaging ➡️ Win/Lost**. This sequential flow guided our data preparation to accurately represent the customer journey and conversion points.
 
+![image_alt]([https://github.com/ritwik-1998/Retail_campaign_Analysis/blob/8651a7ba650e30e5c85942d765d59398472779be/Screenshot%202025-03-17%20174352.png](https://github.com/ritwik-1998/Optimizing-Sales-Performance-and-Customer-Retention-through-Data-Driven-Insights/blob/main/Data%20Model.png))
+
 ### Data Model Creation
 
 To facilitate robust and efficient analysis, we engineered a **star schema** data model. The `sales_pipeline` table was designated as our **fact table**, serving as the central hub for transactional data. The `account`, `product`, and `sales_team` tables were established as **dimension tables**, providing descriptive attributes for the sales transactions.
@@ -39,7 +41,12 @@ To derive meaningful insights and create compelling visualizations, we developed
 * **Agent Deal Win Rate**: Assesses the effectiveness and success rate of individual sales team members.
 * **Average Deal Size**: Offers insights into the typical value of successfully closed opportunities.
 
----
+![image_alt]([https://github.com/ritwik-1998/Retail_campaign_Analysis/blob/8651a7ba650e30e5c85942d765d59398472779be/Screenshot%202025-03-17%20174352.png](https://github.com/ritwik-1998/Optimizing-Sales-Performance-and-Customer-Retention-through-Data-Driven-Insights/blob/main/Sales%20Funnel%20%26%20Conversion%20rate.png))
+![image_alt]([https://github.com/ritwik-1998/Retail_campaign_Analysis/blob/8651a7ba650e30e5c85942d765d59398472779be/Screenshot%202025-03-17%20174352.png](https://github.com/ritwik-1998/Optimizing-Sales-Performance-and-Customer-Retention-through-Data-Driven-Insights/blob/main/Sales%20Performace%20Analysis.png))
+![image_alt]([https://github.com/ritwik-1998/Retail_campaign_Analysis/blob/8651a7ba650e30e5c85942d765d59398472779be/Screenshot%202025-03-17%20174352.png](https://github.com/ritwik-1998/Optimizing-Sales-Performance-and-Customer-Retention-through-Data-Driven-Insights/blob/main/Monthly%20Trends.png))
+![image_alt]([https://github.com/ritwik-1998/Retail_campaign_Analysis/blob/8651a7ba650e30e5c85942d765d59398472779be/Screenshot%202025-03-17%20174352.png](https://github.com/ritwik-1998/Optimizing-Sales-Performance-and-Customer-Retention-through-Data-Driven-Insights/blob/main/Product%20Performance%20Analysis.png))
+![image_alt]([https://github.com/ritwik-1998/Retail_campaign_Analysis/blob/8651a7ba650e30e5c85942d765d59398472779be/Screenshot%202025-03-17%20174352.png](https://github.com/ritwik-1998/Optimizing-Sales-Performance-and-Customer-Retention-through-Data-Driven-Insights/blob/main/Industry%20%26%20Regional%20Insights.png))
+
 
 ## 📈 Key Insights & Findings
 
