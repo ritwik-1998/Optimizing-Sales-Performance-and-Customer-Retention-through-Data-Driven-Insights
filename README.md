@@ -51,11 +51,3 @@ Our comprehensive analysis yielded several significant insights, which were visu
 4.  **Lost Deals by Sector**: Revealed that the **Technology** and **Software** sectors accounted for the highest number of lost deals, suggesting potential areas for re-evaluation of sales strategies or product fit within these markets.
 5.  **Monthly Revenue Peak**: Pinpointed **June** as the month with the **highest revenue generation**, potentially indicating seasonal trends or successful campaigns during that period.
 6.  **Product Performance Comparison**: Noted that while **GTXPro generated the highest revenue**, **GTXBasic achieved the highest number of units sold**, highlighting distinct market positioning and sales volume versus value.
-
----
-
-## 🛠️ Technologies Used
-
-* **[Specify your ETL tool, e.g., Python (Pandas)]**: For data cleaning and preparation.
-* **[Specify your data modeling tool, e.g., Power BI Desktop / SSAS]**: For data modeling and DAX calculations.
-* **[Specify your visualization tool, e.g., Power BI / Tableau]**: For report generation and visualization.
